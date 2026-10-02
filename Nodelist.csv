@@ -125,22 +125,22 @@ at,Anna Tsareva,Tsareva,1,NA,1,Russland,2004
 gg,Gracie Gold,Gold,1,2,0,USA,1995
 fc38,Frank Carroll,Carroll,2,NA,1,USA,1938
 yn,Yoko Niino,Niino,1,NA,1,Japan,1975
-jpn,Japan,,NA,NA,2,Japan,
-usa,USA,,NA,NA,2,USA,
-rus,Russland,Rus,NA,NA,2,Russland,
-kor,Südkorea,SKo,NA,NA,2,Südkorea,
-fra,Frankreich,Fra,NA,NA,2,Frankreich,
-ita,Italien,Ita,NA,NA,2,Italien,
-can,Kanada,Kan,NA,NA,2,Kanada,
-uzb,Uzbekistan,Uzb,NA,NA,2,Uzbekistan,
-bel,Belgien,Bel,NA,NA,2,Belgien,
-sui,Schweiz,Sui,NA,NA,2,Schweiz,
-kaz,Kasachstan,Kaz,NA,NA,2,Kasachstan,
-geo,Georgien,Geo,NA,NA,2,Georgien,
-deu,Deutschland,Deu,NA,NA,2,Deutschland,
-spa,Spanien,Spa,NA,NA,2,Spanien,
-isr,Israel,Isr,NA,NA,2,Israel,
-chn,China,Chn,NA,NA,2,China,
+jpn,Japan,JPN,NA,NA,2,Japan,
+usa,USA,USA,NA,NA,2,USA,
+rus,Russland,RUS,NA,NA,2,Russland,
+kor,Südkorea,SKO,NA,NA,2,Südkorea,
+fra,Frankreich,FRA,NA,NA,2,Frankreich,
+ita,Italien,ITA,NA,NA,2,Italien,
+can,Kanada,KAN,NA,NA,2,Kanada,
+uzb,Uzbekistan,UZB,NA,NA,2,Uzbekistan,
+bel,Belgien,BEL,NA,NA,2,Belgien,
+sui,Schweiz,SUI,NA,NA,2,Schweiz,
+kaz,Kasachstan,KAZ,NA,NA,2,Kasachstan,
+geo,Georgien,GEO,NA,NA,2,Georgien,
+deu,Deutschland,DEU,NA,NA,2,Deutschland,
+spa,Spanien,SPA,NA,NA,2,Spanien,
+isr,Israel,ISR,NA,NA,2,Israel,
+chn,China,CHN,NA,NA,2,China,
 wc2016,World Championship 2016,2016,4,NA,3,NA,NA
 wc2017,World Championship 2017,2017,4,NA,3,NA,NA
 wc2018,World Championship 2018,2018,4,NA,3,NA,NA
