@@ -120,7 +120,6 @@ jpn,yk03,2,NA
 jpn,yh,2,NA
 jpn,gb,3,NA
 jpn,su,2,NA
-jpn,sl,3,NA
 rus,mk95,2,NA
 rus,am,3,NA
 rus,tp,3,NA
@@ -152,13 +151,11 @@ usa,ar,3,NA
 kor,yy,2,NA
 kor,je,3,NA
 kor,jc,2,NA
-usa,rs,3,NA
 fra,ka97,2,NA
 fra,fb,3,NA
 jpn,mk71,3,NA
 kor,hl,2,NA
 kor,hc,3,NA
-usa,jh,3,NA
 jpn,sk95,3,NA
 jpn,ss,2,NA
 jpn,tk,3,NA
@@ -241,6 +238,9 @@ rus,at,3,NA
 usa,gg,2,NA
 usa,fc38,3,NA
 jpn,yn,3,NA
+rus,et96,2,NA
+kor,hj,3,NA
+rus,et,3,NA
 wc2026,im,4,NA
 wc2026,yk03,4,NA
 wc2026,ss,4,NA
