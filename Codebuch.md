@@ -38,6 +38,12 @@ Punkte: Platz 1 = 5 Punkte Platz 2 = 4 Punkte Platz 3 = 3 Punkte Platz 4
 = 2 Punkte Platz 5 = 1 Punkt Die Punkte werden über Wettkämpfe hinweg
 addiert. Zeigt die "Macht" der Skater\*innen.
 
+**top3** signalisiert, ob ein(e) Skater*in mind. einmal in den Top-3 war (0 = nein, 1 = ja)
+
 **type** relevant bei two-mode Netzwerken, um die Unterscheidung
 zwischen z.B. Akteur und Event zu berechnen: 0 = Skater 1 = Trainer 2 =
 Nationalität 3 = Championship
+
+**country** Nationalität des Akteurs bzw. der Akteurin
+
+**birth_year** Geburtsjahr des Akteurs bzw. der Akteurin
